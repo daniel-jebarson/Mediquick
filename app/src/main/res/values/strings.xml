@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">MediQuick</string>
+    <string name="userpreference">userpreference</string>
+    <string name="username">NO_NAME</string>
+    <string name="age">0</string>
+    <string name="gender">null</string>
+    <string name="contact">null</string>
+    <string name="rcontact">null</string>
+    <string name="bloodgroup">null</string>
+    <string name="address">null</string>
+    <string name="usertype">null</string>
+    <string name="alert_clicked">no</string>
+
+
+    <string name="channel_name">MediQuick</string>
+    <string name="channel_name_alert">MediQuick_channel_alert</string>
+    <string name="channel_description">MediQuick_description</string>
+    <string name="dismiss">Dismiss</string>
+
+    <string name="HEART_ATTACK_STRING">Heart Attack</string>
+    <string name="SNAKE_BITE_STRING">Snake Bite</string>
+    <string name="BLEEDING_STRING">Bleeding</string>
+    <string name="DROWNED_STRING">Drowned</string>
+    <string name="STROKE_STRING">Stroke</string>
+    <string name="CONVULSIONS_STRING">Convulsions</string>
+    <string name="BURNS_STRING">Burns</string>
+    <string name="TRAUMATIC_HEAD_INJURY_STRING">Traumatic Head Injury</string>
+
+    <string name="please_wait">Please Wait...</string>
+    <string name="already_account"><u>Already have an account?</u></string>
+
+    <string name="case1_title">In case you face Emergeny</string>
+    <string name="case1_step1">
+        STEP  1 :\n
+                       \t\t\t\t\tSelect the type of problem you are facing and then long press the “ALERT” button.
+If you are facing any other problem you can directly long press the “ALERT” button.
+
+    </string>
+
+    <string name="case1_step2">
+                                STEP 2  :\n
+                        \t\t\t\t\tA new window will show the users who are accepted to help you.
+After you got some help, you should press the “CANCEL ALERT” button in the bottom right to inform all the others users that you already got help.
+    </string>
+
+
+    <string name="case2_title">In case others face Emergency</string>
+    <string name="case2_step1">
+        STEP 1 :\n
+                    \t\t\t\t\tWhen someone in Emergency presses the “ALERT” button, you will receive an alarm in your phone. You can click the notification in the notification panel to directly go to the see the details of the respective user. Or you can go into the notification window inside the MediQuick app.
+
+    </string>
+
+    <string name="case2_step2">
+        STEP 2:\n
+		\t\t\t\t\tYou can see the details and the distance of the person from you. You can also see the location of the user by clicking the “SHOW LOCATION” button. It will direct you to the person’s location.
+
+    </string>
+
+    <string name="case2_step3">
+        STEP 3:\n
+		\t\t\t\t\tIf you decide to help the person, you can click the “ACCEPT” button. After accepting if you wish not to help him, you can click the “REJECT” button. If the user cancels the Alert, it will inform you.
+    </string>
+
+
+</resources>
